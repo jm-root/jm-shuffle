@@ -1,0 +1,7 @@
+.git
+.idea
+.svn
+src
+bench
+docs
+test
